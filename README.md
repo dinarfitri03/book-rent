@@ -2,38 +2,40 @@
 
 ## Halaman Admin
 - Halaman Login
-![Img 1](screnshot/Login.png)
+![alt text](https://github.com/dinarfitri03/book-rent/blob/master/screenshot/Login.png?raw=true)
 
 - Halaman Dashboard
-![Img 2](screnshot/Dashboard.png)
+![alt text](https://github.com/dinarfitri03/book-rent/blob/master/screenshot/Dashboard.png?raw=true)
 
 - Halaman List Data Buku
-![Img 3](screnshot/Halaman_Buku.png)
+![alt text](https://github.com/dinarfitri03/book-rent/blob/master/screenshot/Halaman%20Buku.png?raw=true)
 
 - Halaman List Data Kategori
-![Img 4](screnshot/Halaman_Kategori.png)
+![alt text](https://github.com/dinarfitri03/book-rent/blob/master/screenshot/Halaman%20Kategori.png?raw=true)
 
 - Halaman List Data Pengguna
-![Img 5](screnshot/Halaman_User.png)
+![alt text](https://github.com/dinarfitri03/book-rent/blob/master/screenshot/Halaman%20User.png?raw=true)
 
 - Halaman Form Peminjaman
-![Img 6](screnshot/Form_Peminjaman.png)
+![alt text](https://github.com/dinarfitri03/book-rent/blob/master/screenshot/Form%20Peminjaman.png?raw=true)
 
 - Halaman Form Pengembalian
-![Img 7](screnshot/Form_Pengembalian.png)
+![alt text](https://github.com/dinarfitri03/book-rent/blob/master/screenshot/Form%20Pengembalian.png?raw=true)
 
 - Halaman List Data Peminjaman
-![Img 8](screnshot/Halaman_Peminjaman.png)
+![alt text](https://github.com/dinarfitri03/book-rent/blob/master/screenshot/Halaman%20Peminjaman.png?raw=true)
 
-## Halaman Pengguna
+## Halaman User (Pengguna)
+User Hanya Dapat Melihat Halaman List Buku dan Riwayat Peminjaman dan Pengembalian Buku
+
 - Halaman Register
-![Img 9](screnshot/Register.png)
+![alt text](https://github.com/dinarfitri03/book-rent/blob/master/screenshot/Register.png?raw=true)
 
 - Halaman Login
-![Img 10](screnshot/Login.png)
+![alt text](https://github.com/dinarfitri03/book-rent/blob/master/screenshot/Login.png?raw=true)
 
-- Halaman Profile (Data Peminjaman)
-![Img 11](screnshot/Login.png)
+- Halaman Profile (Data Riwayat Peminjaman)
+![alt text](https://github.com/dinarfitri03/book-rent/blob/master/screenshot/Halaman%20Profile.png?raw=true)
 
 - Halaman Data Buku
-![Img 12](screnshot/Halaman_List_Buku.png)
+![alt text](https://github.com/dinarfitri03/book-rent/blob/master/screenshot/Halaman%20List%20Buku.png?raw=true)
